@@ -7,3 +7,5 @@ repo= https://github.com/asunmayoral/github_r.git
 # Pulsamos “Create Project”.
 # A continuación podrá consultarse la pestaña “Git” 
 # y ver la información asociada al repositorio descargado.
+
+# añado más texto para hacer un segundo commit
